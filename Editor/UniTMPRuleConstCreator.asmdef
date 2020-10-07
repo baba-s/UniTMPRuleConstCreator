@@ -1,0 +1,20 @@
+{
+    "name": "UniTMPRuleConstCreator",
+    "references": [
+        "GUID:28c00eec21f0ea143a80ff96fb15e56a",
+        "GUID:8d5930cf95a468048836c17dcae3c7b5",
+        "GUID:7f0cd023d755dd8458d93d783bb25cdb",
+        "GUID:390afc0d1f433084c99bbd4522529ee8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
